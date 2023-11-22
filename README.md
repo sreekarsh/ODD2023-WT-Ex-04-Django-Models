@@ -1,8 +1,8 @@
-Ex-04-Django-Models
-AIM
+## Ex-04-Django-Models
+## AIM:
 Create Django Models.
 
-DESIGN STEPS
+## DESIGN STEPS 
 Step 1:
 Create django project and app.
 
@@ -30,8 +30,10 @@ Create a template as user_profiles.html
 Step 9:
 Run the program
 
-OUTPUT:
+ ## OUTPUT:
+
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-04-Django-Models/assets/139841918/597d1288-a777-433d-9883-caf7c41b2827)
 
 
-RESULT:
+## RESULT:
 Django model is created succesfully.
